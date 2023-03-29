@@ -57,7 +57,14 @@ class ProductManager{
             
     }
 
+    updateProduct(){
+         
+        
+    }
+    
+    deleteProduct(){
 
+    }
 
 
 }
