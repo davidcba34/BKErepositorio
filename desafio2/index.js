@@ -1,4 +1,4 @@
-import ProductManager from "../desafio2/managers/ProductManager.js";
+import ProductManager from "./src/managers/ProductManager.js";
 
 const manager = new  ProductManager();
 
@@ -16,10 +16,13 @@ const env = async ()=>{
   
    
 
-    let verProductos = await manager.getProducts(Product);
-     console.log(verProductos);   
+    let result  = await manager.addProducts(Product);
+     console.log(result);   
+
+     let products = await manager.getProducts();
+     console.log(products)
 }  
 
 
 
- export default env()
+env()
