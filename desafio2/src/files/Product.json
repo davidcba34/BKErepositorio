@@ -1,1 +1,47 @@
-[]
+[
+	{
+		"id": "1",
+		"name": "Mouse inalambricop",
+		"description": "mouse con coneccion a bluettoth",
+		"price": 600,
+		"stock": 59,
+		"code": "vGTcm4",
+		"category": "PER"
+	},
+	{
+		"id": "2",
+		"name": "Web cam",
+		"description": "mouse con coneccion a usb",
+		"price": 1300,
+		"stock": 54,
+		"code": "lont1",
+		"category": "PER"
+	},
+	{
+		"id": "3",
+		"name": "Windows 11",
+		"description": "Cd auto-instalable",
+		"price": 1500,
+		"stock": 67,
+		"code": "vmfdG3",
+		"category": "SOFT"
+	},
+	{
+		"id": "4",
+		"name": "Teclado inalambrico",
+		"description": "Teclado con coneccion a bluettoth",
+		"price": 3500,
+		"stock": 51,
+		"code": "ymvQ86",
+		"category": "PER"
+	},
+	{
+		"id": "6",
+		"name": "Monitor 24 pulgadas",
+		"description": "monitor en hd ",
+		"price": 600,
+		"stock": 20,
+		"code": "gAERv6",
+		"category": "PER"
+	}
+]
